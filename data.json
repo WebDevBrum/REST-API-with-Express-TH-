@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "id": 8721,
+      "quote": "Its a new quote!",
+      "author": "Brian Coolman"
+    },
+    {
+      "id": 5779,
+      "quote": "Use what you’ve been through as fuel, believe in yourself and be unstoppable!",
+      "author": "Yvonne Pierre"
+    },
+    {
+      "id": 3406,
+      "quote": "To succeed, you have to do something and be very bad at it for a while. You have to look bad before you can look really good.",
+      "author": "Barbara DeAngelis"
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 1670
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 9960
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 8596
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 9753
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 2527
+    },
+    {
+      "quote": "Its a puppet!",
+      "author": "Brian C",
+      "id": 3615
+    }
+  ]
+}
